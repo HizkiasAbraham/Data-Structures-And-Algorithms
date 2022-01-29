@@ -27,3 +27,4 @@ Represents the lower bound of the running time of an algoithm i.e it provides th
 
 ##### c) Theta Notation (Θ-notation)
 Represents the upper and lower bound bound of the running time of an algorithm, it is used for analyzing the average-case complexity of an algorithm.
+#### - [Sorting algorithms](Algorithms/Sorting)
